@@ -1,0 +1,25 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="http://cdn.5central.me:80/">
+  <channels>
+  <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ FHD">Globo RJ FHD</channel>
+  <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ FHD *">Globo RJ FHD *</channel>
+  <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ HD">Globo RJ HD</channel>
+  <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ HD *">Globo RJ HD *</channel>
+  <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ SD">Globo RJ SD</channel>  
+  <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ SD *">Globo RJ SD *</channel>
+  <channel site="dummy" site_id="Globosp.br" update="i" xmltv_id="Globo SP FHD">Globo SP FHD</channel>
+  <channel site="dummy" site_id="Globosp.br" update="i" xmltv_id="Globo SP FHD *">Globo SP FHD *</channel>
+  <channel site="dummy" site_id="Globosp.br" update="i" xmltv_id="Globo SP HD">Globo SP HD</channel>
+  <channel site="dummy" site_id="Globosp.br" update="i" xmltv_id="Globo SP HD *">Globo SP HD *</channel>
+  <channel site="dummy" site_id="Globosp.br" update="i" xmltv_id="Globo SP SD">Globo SP SD</channel>
+  <channel site="dummy" site_id="Globosp.br" update="i" xmltv_id="Globo SP SD *">Globo SP SD *</channel>
+  <channel site="dummy" site_id="RedeAmaznicaManausHD.br" update="i" xmltv_id="Globo AM Manaus SD">Globo AM Manaus SD</channel>
+  <channel site="dummy" site_id="RedeAmaznicaManausHD.br" update="i" xmltv_id="Globo AM Manaus SD *">Globo AM Manaus SD *</channel>
+  <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia FHD">Globo Brasilia FHD</channel>
+  <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia FHD *">Globo Brasilia FHD *</channel>
+  <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia HD">Globo Brasilia HD</channel>
+  <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia HD*">Globo Brasilia HD *</channel>
+  <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia SD">Globo Brasilia SD</channel>
+  <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia SD *">Globo Brasilia SD *</channel>
+   </channels>
+</site>
